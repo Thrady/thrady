@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Fullstack WordPress Web Weveloper, currently student at O'clock 🎓
+
+Skill :<br>
+        -  🐱 Wordpress <br>
+        -  🔥 HTML/CSS <br>
+        - ☀️ JS <br>
+        -  🔰 Vue.Js <br>
+        -  💗 Sass <br>
+        - 🐬 SQL <br>
+        -  🐘 PHP <br>
 <!--
 **Thrady/thrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
