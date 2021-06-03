@@ -1,13 +1,11 @@
 ![Cover](https://github.com/Thrady/thrady/blob/main/img/cover_github.jpg)
 
-Skill :<br>
-        -  🐱 Wordpress <br>
-        -  🔥 HTML/CSS <br>
-        - ☀️ JS <br>
-        -  🔰 Vue.Js <br>
-        -  💗 Sass <br>
-        - 🐬 SQL <br>
-        -  🐘 PHP <br>
+Skill :<br>       
+   -  🐱 Wordpress /  🔥 HTML/CSS / ☀️ JS 
+   -  🔰 Vue.Js /  💗 Sass / 🐬 SQL<br>
+   -  🐘 PHP <br>
+
+
 <!--
 **Thrady/thrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
