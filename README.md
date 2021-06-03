@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fullstack WordPress Web Weveloper, currently student at O'clock 🎓
+Fullstack WordPress Web Developer, currently student at O'clock 🎓
 
 Skill :<br>
         -  🐱 Wordpress <br>
