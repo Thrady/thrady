@@ -1,3 +1,5 @@
+![Cover](https://github.com/Thrady/thrady/blob/main/img/uK85rBJ.jpg)
+
 ### Hi there 👋
 
 Fullstack WordPress Web Developer, currently student at O'clock 🎓
