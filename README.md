@@ -2,8 +2,8 @@
 
 Skill :<br>       
    -  🐱 Wordpress /  🔥 HTML/CSS / ☀️ JS 
-   -  🔰 Vue.Js /  💗 Sass / 🐬 SQL<br>
-   -  🐘 PHP <br>
+   -  🌐 React /  💗 Sass / 🐬 SQL<br>
+   
 
 
 <!--
