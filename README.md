@@ -1,8 +1,7 @@
 ![Cover](https://github.com/Thrady/thrady/blob/main/img/cover_github.jpg)
 
 Skill :<br>       
-   -  🐱 Wordpress /  🔥 HTML/CSS / ☀️ JS 
-   -  🌐 React /  💗 Sass / 🐬 SQL<br>
+   -   🔥 HTML/CSS / ☀️ JS / 🌐 React 
    
 
 
